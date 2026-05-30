@@ -6,3 +6,4 @@ I am new at this. :D \
 * bullet 
 Helloo I'm janee hehe \ 
 I hope you have a great summer! 
+Emily :D
