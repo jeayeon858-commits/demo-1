@@ -4,3 +4,4 @@ I am new at this. :D \
 *italics* \
 **bold** 
 * bullet 
+Helloo I'm janee hehe
