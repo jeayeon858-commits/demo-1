@@ -4,4 +4,5 @@ I am new at this. :D \
 *italics* \
 **bold** 
 * bullet 
-Helloo I'm janee hehe
+Helloo I'm janee hehe \ 
+I hope you have a great summer! 
